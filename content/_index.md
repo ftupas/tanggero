@@ -17,7 +17,7 @@ grooves, tight floors. No filler, just friction.
 ## Gigs
 
 ### 2026
-
+- may 2 - [l'altitude bar](https://laltitude.be/)
 - apr 10 - [got drip](https://www.instagram.com/got.drip.ams/)
 - apr 3 - [ouragan](https://www.instagram.com/ouragan.amsterdam/)
 - apr 2 - [waterhouse studios](https://www.instagram.com/waterhousestudiosamsterdam/)
