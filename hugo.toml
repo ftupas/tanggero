@@ -20,8 +20,13 @@ theme = 'split'
       new_tab = true
 
     [[params.links.list1.link]]
+      text = "bandcamp"
+      url = "https://tanggero.bandcamp.com/"
+      new_tab = true
+
+    [[params.links.list1.link]]
       text = "instagram"
-      url = "https://www.instagram.com/freds_/"
+      url = "https://www.instagram.com/tanggero.live/"
       new_tab = true
 
     [[params.links.list1.link]]
