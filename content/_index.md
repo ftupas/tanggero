@@ -21,10 +21,16 @@ grooves, tight floors. No filler, just friction.
 ## Gigs
 
 ### 2026
-- may 2 - [l'altitude bar](https://laltitude.be/)
+
+- aug 7 -
+  [ouragan x bordello aperitivo](https://www.instagram.com/bordelloaperitivo/)
+- jul 25 - [sudden rave](https://www.instagram.com/suddenrave/)
+- jul 18 - [ouragan x bar theo](https://www.instagram.com/bartheoamsterdam/)
+- may 2 - [l'altitude](https://www.instagram.com/laltitudebaraudiophile/)
 - apr 10 - [got drip](https://www.instagram.com/got.drip.ams/)
 - apr 3 - [ouragan](https://www.instagram.com/ouragan.amsterdam/)
-- apr 2 - [waterhouse studios](https://www.instagram.com/waterhousestudiosamsterdam/)
+- apr 2 -
+  [waterhouse studios](https://www.instagram.com/waterhousestudiosamsterdam/)
 - mar 20 - [zèta drop in](https://www.instagram.com/zetadenhaag)
 - feb 13 - [ouragan](https://www.instagram.com/ouragan.amsterdam/)
 
