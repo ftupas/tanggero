@@ -22,12 +22,14 @@ grooves, tight floors. No filler, just friction.
 
 ### 2026
 
+- sep 19 - [tunnel rave 3](https://www.instagram.com/pizzarave__/)
+- aug 21 - [ouragan x got.drip](https://www.instagram.com/got.drip.ams/)
 - aug 7 -
   [ouragan x bordello aperitivo](https://www.instagram.com/bordelloaperitivo/)
 - jul 25 - [sudden rave](https://www.instagram.com/suddenrave/)
 - jul 18 - [ouragan x bar theo](https://www.instagram.com/bartheoamsterdam/)
 - may 2 - [l'altitude](https://www.instagram.com/laltitudebaraudiophile/)
-- apr 10 - [got drip](https://www.instagram.com/got.drip.ams/)
+- apr 10 - [got.drip](https://www.instagram.com/got.drip.ams/)
 - apr 3 - [ouragan](https://www.instagram.com/ouragan.amsterdam/)
 - apr 2 -
   [waterhouse studios](https://www.instagram.com/waterhousestudiosamsterdam/)
