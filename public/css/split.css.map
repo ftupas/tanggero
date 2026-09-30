@@ -1,14 +1,14 @@
 {
 	"version": 3,
 	"file": "split.css",
-	"sourceRoot": "/Users/fredtupas/epk",
+	"sourceRoot": "/Users/fredtupas/projects/tanggero",
 	"sources": [
 		"themes/split/assets/scss/split.scss",
-		"themes/split/assets/scss/_normalize.scss",
-		"themes/split/assets/scss/_webflow.scss",
-		"themes/split/assets/scss/_animation.scss",
-		"themes/split/assets/scss/_fonts.scss",
-		"themes/split/assets/scss/_content.scss"
+		"../../projects/tanggero/themes/split/assets/scss/_normalize.scss",
+		"../../projects/tanggero/themes/split/assets/scss/_webflow.scss",
+		"../../projects/tanggero/themes/split/assets/scss/_animation.scss",
+		"../../projects/tanggero/themes/split/assets/scss/_fonts.scss",
+		"../../projects/tanggero/themes/split/assets/scss/_content.scss"
 	],
 	"sourcesContent": [
 		"//-------------------------------------------------------------------------------\n// Variables\n//-------------------------------------------------------------------------------\n\n// Colors\n$color-background   : #0B1C2F;\n$color-name         : #47BEC7;\n$color-tagline      : #DDDDDD;\n$color-text         : #848D96;\n$color-credit       : #485462;\n$color-link         : #848D96;\n$color-link-hover   : #CA486d;\n\n// Breakpoints\n$bp-smallish        : 991px;\n$bp-tablet          : 767px;\n$bp-mobile          : 479px;\n\n// Image\n$image-background   : url('../background.gif');\n$image-position     : center center;\n\n// Animation\n$animation-name     : fadein;\n$animation-duration : 2s;\n\n//-------------------------------------------------------------------------------\n// Imports\n//-------------------------------------------------------------------------------\n\n@import \"normalize\";\n@import \"webflow\";\n@import \"animation\";\n@import \"fonts\";\n@import \"content\";\n",

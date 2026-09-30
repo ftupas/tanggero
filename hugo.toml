@@ -34,6 +34,11 @@ theme = 'split'
       url = "mailto:dj.tanggero@gmail.com"
       new_tab = true
 
+    [[params.links.list1.link]]
+      text = "press kit"
+      url = "/press-kit/tanggero.pdf"
+      new_tab = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
