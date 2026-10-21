@@ -21,6 +21,9 @@ Rooted in Manila’s sweat-drenched dance floors at Annex House, tanggero thread
 
 ### 2026
 
+- oct 25 - [tiny studio spot x ade](https://www.instagram.com/tiny_studio.spot)
+- oct 21 - [zwart goud x ade](https://www.instagram.com/zwart_goud/)
+- oct 19 - [operator-radio](https://operator-radio.com/)
 - sep 19 - [tunnel rave 3](https://www.instagram.com/pizzarave__/)
 - aug 21 - [ouragan x got.drip](https://www.instagram.com/got.drip.ams/)
 - aug 7 -
@@ -43,8 +46,8 @@ Rooted in Manila’s sweat-drenched dance floors at Annex House, tanggero thread
 - sep 28 -
 [club alter3go x rotterdam pride](https://www.instagram.com/club.alter3g0/)
 - aug 21 - [mndlab x no.flac](https://ra.co/events/2230632)
-- aug 1 - [are we still friends x pride 2025](https://arewestillfriends.cyou)
+- aug 1 - [are we still friends x pride](https://arewestillfriends.cyou)
 - jul 10 - [mndlab x no.flac](https://ra.co/events/2199019)
 - jun 18 - [goodies siargao](https://www.instagram.com/goodies.siargao/?hl=en)
 - apr 26 -
-[are we still friends x kingsday 2025](https://arewestillfriends.cyou)
+[are we still friends x kingsday](https://arewestillfriends.cyou)
